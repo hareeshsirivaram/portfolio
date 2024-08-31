@@ -1,2 +1,2 @@
 # portfolio
-https://hareeshsirivaram.github.io/portfolio/
+https://hareeshsirivaram.github.io/portfolio
